@@ -44,6 +44,7 @@ gem "bootsnap", require: false
 gem "bootstrap", "~> 5.2"
 gem "simple_form"
 gem "sassc-rails"
+gem "cloudinary"
 
 
 group :development, :test do
